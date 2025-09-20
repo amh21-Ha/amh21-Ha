@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amha
 - 👀 I’m interested in math and javascript
-- 🌱 I’m currently learning software engineerign
+- 🌱 I’m currently data analyst at INSA
 - 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me https://t.me/amHail
 <!---
